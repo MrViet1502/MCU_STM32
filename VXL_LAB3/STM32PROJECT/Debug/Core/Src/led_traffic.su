@@ -1,0 +1,4 @@
+led_traffic.c:10:6:turn_on_traffic_led_1	8	static
+led_traffic.c:31:6:turn_on_traffic_led_2	8	static
+led_traffic.c:53:6:blinkind_led_traffic_1	8	static
+led_traffic.c:75:6:blinkind_led_traffic_2	8	static

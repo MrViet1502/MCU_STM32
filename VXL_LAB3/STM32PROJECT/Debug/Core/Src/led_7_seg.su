@@ -1,0 +1,5 @@
+led_7_seg.c:13:6:turn_on_led_7seg	16	static
+led_7_seg.c:48:6:display_led_7seg	16	static
+led_7_seg.c:145:6:update_2_buffer_led_7seg_left	16	static
+led_7_seg.c:149:6:update_2_buffer_led_7seg_right	16	static
+led_7_seg.c:153:6:led_7seg_run	8	static
